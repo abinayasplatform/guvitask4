@@ -1,6 +1,8 @@
-Name : R Abinaya
-Batch : FSD56WD2-T
-Task : Day4
+Name : R Abinaya    
+Batch : FSD56WD2-T   
+Task : Day4   
+
+Note : Please find the attached output for the below questions.
 
 1.Do the below programs in anonymous function & IIFE
 
@@ -21,3 +23,5 @@ b.Convert all the strings to title caps in a string array
 c.Sum of all numbers in an array   
 d.Return all the prime numbers in an array   
 e.Return all the palindromes in an array   
+
+
